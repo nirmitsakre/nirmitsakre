@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nirmitsakre
 - 👀 I’m interested in Data science and Astrophysics
 - 🌱 I’m currently learning data science.
-- 💞️ I’m looking to collaborate on projects in astrophysics which can help me improve my data science skills
 - 📫 email: nirmitsakre@gmail.com
 
 <!---
