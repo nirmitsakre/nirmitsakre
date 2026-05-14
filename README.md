@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nirmitsakre
 - 👀 I’m interested in Data science and Astrophysics
-- 🌱 I’m currently learning data science.
+- 🌱 I’m currently doing software engineering.
 - 📫 email: nirmitsakre@gmail.com
 
 <!---
